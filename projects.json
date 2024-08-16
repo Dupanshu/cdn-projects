@@ -7,7 +7,7 @@
         "image3": "",
         "image4": ""
       }],
-      "name": "",
+      "name": "Jobsphere",
       "tags": [{
         "tag1": "JavaScript",
         "tag2": "React.js",
@@ -18,6 +18,69 @@
       "buttons": [{
         "demo": "https://dupanshu.github.io/job-sphere/",
         "source": "https://github.com/Dupanshu/job-sphere"
+      }]
+    },
+    
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/eleve/home.png",
+        "image2": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/eleve/menu.png",
+        "image3": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/eleve/reservation.png",
+        "image4": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/eleve/management.png"
+      }],
+      "name": "elèvè",
+      "tags": [{
+        "tag1": "C#",
+        "tag2": "ASP.NET MVC",
+        "tag3": "SQL",
+        "tag4": "CSS",
+        "tag5": "Authentication"
+      }],
+      "buttons": [{
+        "demo": "",
+        "source": "https://github.com/ChaseSwedlo/eleve"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/simple-calc@master/assets/media/Screenshot 2024-06-01 160414.png",
+        "image2": "",
+        "image3": "",
+        "image4": ""
+      }],
+      "name": "elèvè",
+      "tags": [{
+        "tag1": "JavaScript",
+        "tag2": "HTML",
+        "tag3": "CSS",
+        "tag4": "",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "https://dupanshu.github.io/simple-calc/",
+        "source": "https://github.com/Dupanshu/simple-calc"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/inventory/login.png",
+        "image2": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/inventory/list.png",
+        "image3": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/inventory/update.png",
+        "image4": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/inventory/create.png"
+      }],
+      "name": "Inventory",
+      "tags": [{
+        "tag1": "C#",
+        "tag2": "ASP.NET MVC",
+        "tag3": "Authentication",
+        "tag4": "API",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "",
+        "source": "https://github.com/Dupanshu/ProductManagement"
       }]
     }
   ]
