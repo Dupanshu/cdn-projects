@@ -7,7 +7,7 @@
         "image3": "",
         "image4": ""
       }],
-      "name": "Jobsphere",
+      "name": "Job Sphere",
       "tags": [{
         "tag1": "JavaScript",
         "tag2": "React.js",
@@ -28,12 +28,12 @@
         "image3": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/eleve/reservation.png",
         "image4": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/eleve/management.png"
       }],
-      "name": "elèvè",
+      "name": "Elèvè",
       "tags": [{
         "tag1": "C#",
         "tag2": "ASP.NET MVC",
         "tag3": "SQL",
-        "tag4": "CSS",
+        "tag4": "Figma",
         "tag5": "Authentication"
       }],
       "buttons": [{
@@ -49,7 +49,7 @@
         "image3": "",
         "image4": ""
       }],
-      "name": "elèvè",
+      "name": "Calculator",
       "tags": [{
         "tag1": "JavaScript",
         "tag2": "HTML",
@@ -81,6 +81,174 @@
       "buttons": [{
         "demo": "",
         "source": "https://github.com/Dupanshu/ProductManagement"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/josify_shop/home.png",
+        "image2": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/josify_shop/detail.png",
+        "image3": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/josify_shop/cart.png",
+        "image4": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/josify_shop/about.png"
+      }],
+      "name": "Josify Shop",
+      "tags": [{
+        "tag1": "React.js",
+        "tag2": "CSS",
+        "tag3": "3rd party API",
+        "tag4": "",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "https://josify-shop.netlify.app/",
+        "source": "https://github.com/Dupanshu/josify-shop"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/taskbook/first.png",
+        "image2": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/taskbook/second.png",
+        "image3": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/taskbook/responsive.png",
+        "image4": ""
+      }],
+      "name": "Task Book",
+      "tags": [{
+        "tag1": "React.js",
+        "tag2": "CSS",
+        "tag3": "CRUD",
+        "tag4": "",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "https://dupanshu.github.io/task-notebook/",
+        "source": "https://github.com/Dupanshu/task-notebook"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/Voyager_gps@master/assets/media/landing.png",
+        "image2": "https://cdn.jsdelivr.net/gh/Dupanshu/Voyager_gps@assets/media/map.png",
+        "image3": "",
+        "image4": ""
+      }],
+      "name": "Voyger GPS",
+      "tags": [{
+        "tag1": "JavaScript",
+        "tag2": "CSS",
+        "tag3": "Location API",
+        "tag4": "UI",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "https://dupanshu.github.io/Voyager_gps/",
+        "source": "https://github.com/Dupanshu/Voyager_gps"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/github-finder-2@gh-pages/media-readme/Screenshot 2024-05-22 020144.png",
+        "image2": "https://cdn.jsdelivr.net/gh/Dupanshu/github-finder-2@gh-pages/media-readme/Screenshot 2024-05-22 020106.png",
+        "image3": "",
+        "image4": ""
+      }],
+      "name": "GitHub Finder",
+      "tags": [{
+        "tag1": "React.js",
+        "tag2": "CSS",
+        "tag3": "GitHub API",
+        "tag4": "",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "https://dupanshu.github.io/github-finder-2/",
+        "source": "https://github.com/Dupanshu/github-finder-2"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/keybolt@keybolt-js/assets/img/keybolt.png",
+        "image2": "",
+        "image3": "",
+        "image4": ""
+      }],
+      "name": "KeyBolt",
+      "tags": [{
+        "tag1": "JavaScript",
+        "tag2": "CSS",
+        "tag3": "Typing Game",
+        "tag4": "",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "https://dupanshu.github.io/keybolt/",
+        "source": "https://github.com/Dupanshu/keybolt"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/crypto/up.png",
+        "image2": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/crypto/down.png",
+        "image3": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/crypto/responsive.png",
+        "image4": ""
+      }],
+      "name": "Crypto Vault",
+      "tags": [{
+        "tag1": "React.js",
+        "tag2": "CSS",
+        "tag3": "UI",
+        "tag4": "Responsive",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "https://dupanshu.github.io/crypto-vault/",
+        "source": "https://github.com/Dupanshu/crypto-vault"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/cookies-API@initial-project/assets/img/Cookies.png",
+        "image2": "",
+        "image3": "",
+        "image4": ""
+      }],
+      "name": "Cookies",
+      "tags": [{
+        "tag1": "Cookies API",
+        "tag2": "JSON",
+        "tag3": "CSS",
+        "tag4": "JavaScript",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "https://dupanshu.github.io/cookies-API/",
+        "source": "https://github.com/Dupanshu/cookies-API"
+      }]
+    },
+
+    {
+      "images": [{
+        "image1": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/rating/main.png",
+        "image2": "https://cdn.jsdelivr.net/gh/Dupanshu/cdn-projects@main/rating/dialog.png",
+        "image3": "",
+        "image4": ""
+      }],
+      "name": "Rating",
+      "tags": [{
+        "tag1": "React.js",
+        "tag2": "Rating",
+        "tag3": "CSS",
+        "tag4": "UI",
+        "tag5": ""
+      }],
+      "buttons": [{
+        "demo": "https://dupanshu.github.io/star-rating/",
+        "source": "https://github.com/Dupanshu/star-rating"
       }]
     }
   ]
